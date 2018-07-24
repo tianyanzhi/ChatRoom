@@ -1,5 +1,5 @@
 package TCPMultiChatRoom;
-//ÐÞ¸Ä2
+//ÐÞ¸Ä3
 import java.net.Socket;
 
 public class User {
